@@ -66,7 +66,6 @@ class _RandomWordsState extends State<RandomWords> {
     );
   }
   // #enddocregion _buildRow
-
   // #docregion RWS-build
   @override
   Widget build(BuildContext context) {
